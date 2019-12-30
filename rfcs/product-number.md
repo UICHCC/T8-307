@@ -1,6 +1,6 @@
 # Specification for Product Number (P/N)
 
-        ^[^0][0-9]{5}$
+    ^[^0][0-9]{5}$
 
 ## General Specifications
 

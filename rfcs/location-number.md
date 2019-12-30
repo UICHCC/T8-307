@@ -1,6 +1,6 @@
 # Specification for Location Number (L/N)
 
-        TBBFFRRSYNNNNNN
+    TBBFFRRSYNNNNNN
 
 In which:
 
@@ -43,7 +43,7 @@ The two parts may be used separately.
 
 ### Subtype Shelf (`H`) Defined Field
 
-        SSRRPP
+    SSRRPP
 
 In which:
 
@@ -53,7 +53,7 @@ In which:
 
 ### Subtype Seat (`S`) Defined Field
 
-        WWRRSS
+    WWRRSS
 
 In which:
 
