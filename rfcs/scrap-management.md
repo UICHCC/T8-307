@@ -6,7 +6,7 @@
 2. The following batteries are prohibited from throwing away directly:
     - Li-ion batteries
     - Ni-MH batteries
-    - Ni-Cr batteries
+    - Ni-Cd batteries
     - Pb-H2SO4 batteries
     - Other batteries that are not allowed to be processed with household waste
 
