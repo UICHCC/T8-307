@@ -37,11 +37,11 @@ The two parts may be used separately.
 - `T`: Teaching building; "T".
 - `V`: Village building; "V".
 
-### Type "AD" (Administration Building) Defined Field [N]
+### Type `A` (Administration Building) Defined Field [N]
 
 Todo: not defined due to the unknown status of door sign allocation in the administration building.
 
-### Type "TH" (University Hall) Defined Field [N]
+### Type `H` (University Hall) Defined Field [N]
 
     __ FF RR S
 
@@ -55,7 +55,7 @@ In which:
 - `S`: Section number (if applicable; otherwise this field should be reserved (be `0`)).
     - e.g. `A`
 
-### Type "T" (Teaching Building) Defined Field [N]
+### Type `T` (Teaching Building) Defined Field [N]
 
     BB FF RR S
 
@@ -70,7 +70,7 @@ In which:
 - `S`: Section number (if applicable; otherwise this field should be reserved (be `0`)).
     - e.g. `A`
 
-### Type "V" (Village Building) Defined Field [N]
+### Type `V` (Village Building) Defined Field [N]
 
     BB FF RR _
 
@@ -89,7 +89,7 @@ In which:
 - `H`: Shelf.
 - `S`: Seat.
 
-### Subtype Shelf (`H`) Defined Field [M]
+### Subtype `H` (Shelf) Defined Field [M]
 
     _ SS RR PP
 
@@ -100,7 +100,7 @@ In which:
 - `R`: Row number.
 - `P`: Position number.
 
-### Subtype Seat (`S`) Defined Field [M]
+### Subtype `S` (Seat) Defined Field [M]
 
     ___ WW SS
 
