@@ -12,7 +12,7 @@
 
 ## 2. Used, Recyclable Materials
 
-1. All used, recyclable materials should be reused across projects proceeding in the laboratory.
+1. All used, recyclable materials should be reused across projects proceeding in the laboratory for as many times as possible.
 2. All used, recyclable materials should be placed at a fixed place and be tracked with barcodes and e-systems.
 
 ## 3. Finished Works
